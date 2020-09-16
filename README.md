@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently looking for entry-level data scientist position
 - 🌱 I’m currently learning Coppelia to achive robotics locolization/path planning
-- ⚡ Fun fact: I like puzzle and travel; willing to learn new things
+- ⚡ Fun fact: I like puzzle and travel; willing to learn edge technology
 
 ---
 ### Connect with me:
