@@ -15,10 +15,9 @@
 ---
 ### Connect with me:
 
-[![](https://img.shields.io/badge/LinkedIn-yulinggu-blue)](https://www.linkedin.com/in/yuling-gu-b61614104/)
-[![](https://img.shields.io/badge/Gmail-betty19950330@gmail.com-red)](mailto:betty19950330@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YulingGu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuling-gu-b61614104/)](https://www.linkedin.com/in/yuling-gu-b61614104/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betty19950330@gmail.com)](mailto:betty19950330@gmail.com)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### Language and Tools:
 
 
