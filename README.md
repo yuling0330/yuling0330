@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-YulingGu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuling-gu-b61614104/)](https://www.linkedin.com/in/yuling-gu-b61614104/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betty19950330@gmail.com)](mailto:betty19950330@gmail.com)
-![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/gu_349/)
+[![hackerRank Badge](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/gu_349/)]
 
 
 ---
