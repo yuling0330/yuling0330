@@ -38,6 +38,12 @@
 
 <br />
 <br />
+---
+### Projects:
+
+- Google Analytics Store Customer Revenue Prediction
+- Blindness Prediction
+- ICU 24 hour Survival Prediction 
 
 ---
 
