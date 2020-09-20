@@ -38,12 +38,20 @@
 
 <br />
 <br />
+
 ---
+
 ### Projects:
 
-- Google Analytics Store Customer Revenue Prediction
-- Blindness Prediction
-- ICU 24 hour Survival Prediction 
+- **Google Analytics Store Customer Revenue Prediction**
+  - [code](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/tree/master/notebook)
+  - [Presentation](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/presentation/Customer_Revenue_Prediction_Presentation.pdf)
+- **Blindness Prediction**
+  - [code](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/tree/master/notebook)
+  - [Presentation](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/blindess_detection_presentation.pdf)
+- **ICU 24 hour Survival Prediction**
+  - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
+  - [Presentation](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/presentation)
 
 ---
 
