@@ -41,7 +41,7 @@
 
 ---
 
-### Projects:
+### Data Science Projects:
 
 - **Google Analytics Store Customer Revenue Prediction**
   - [code](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/tree/master/notebook)
