@@ -53,8 +53,8 @@
   - [code](https://github.com/yuling0330/yelp-review-big-data/tree/master/notebook)
   - [Presentation](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/presentation)
  - **Yelp Recommedation System**
-  - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
-  - [Presentation](https://github.com/yuling0330/yelp-review-big-data/tree/master/presentation)
+   - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
+   - [Presentation](https://github.com/yuling0330/yelp-review-big-data/tree/master/presentation)
 
 ---
 
