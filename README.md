@@ -50,10 +50,10 @@
   - [code](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/tree/master/notebook)
   - [Presentation](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/blindess_detection_presentation.pdf)
 - **ICU 24 hour Survival Prediction**
-  - [code](https://github.com/yuling0330/yelp-review-big-data/tree/master/notebook)
+  - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
   - [Presentation](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/presentation)
  - **Yelp Recommedation System**
-   - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
+   - [code](https://github.com/yuling0330/yelp-review-big-data/tree/master/notebook)
    - [Presentation](https://github.com/yuling0330/yelp-review-big-data/tree/master/presentation)
 
 ---
