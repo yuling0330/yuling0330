@@ -8,9 +8,8 @@
 ---
  ### A little more about me:
 
-- 🔭 I’m currently looking for entry-level data scientist position
-- 🌱 I’m currently learning Coppelia to achive robotics locolization/path planning
-- ⚡ Fun fact: I like puzzle and travel; willing to learn edge technology
+- 🔭 I’m currently looking for experienced data scientist position
+- ⚡ Fun fact: I like puzzle, travel and Lego
 
 ---
 ### Connect with me:
